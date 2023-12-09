@@ -29,7 +29,7 @@ class MyHomePage extends StatelessWidget {
       "title": "Week 2",
       "subtitle": "Description for Week 2",
       "route": Routing.WEEK_2,
-      "imagePath": 'assets/week2_mockup.jpg', // Assuming there is an image for Week 2
+      "imagePath": 'assets/week2_mockup.jpg',
     },
     {
       "title": "Week 3",
